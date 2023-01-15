@@ -8,3 +8,6 @@ This script merge multiple csv files extracted from Boursorama Wicount360 into a
 ## How to use it
 - Execute merge.py
 - An output folder will be created.
+
+## Replacements
+- Use the replacements.xlsx file to create rules to replace some items automatically.
