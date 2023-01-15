@@ -6,7 +6,7 @@ This script merge multiple csv files extracted from Boursorama Wicount360 into a
 - Then place inside the csv files from your wicount360 account.
 
 ## How to use it
-- Execute merge.py
+- Execute run.py
 - An output folder will be created.
 
 ## Replacements
